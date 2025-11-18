@@ -1,0 +1,6 @@
+Technologies Used
+-> Python
+-> Numpy
+-> Pandas
+-> Matplotlib
+-> Scikit-Learn
